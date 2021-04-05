@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrBig83
 - 👀 I’m interested in anything C#
 - 🌱 I’m currently learning C# & GitHub
-- 💞️ I’m looking to collaborate on C# and GitHub. (Various projects) Any help or tips are always nice. :) 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on C# and GitHub. (Various projects) Any help or tips are always nice. :) Feel free to have a look at my public projects and drop a comment if you´dd like. (Any comment would be nice :) ) 
+- 📫 Contact: Discord: Mr.Big#5345
 
 <!---
 MrBig83/MrBig83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
